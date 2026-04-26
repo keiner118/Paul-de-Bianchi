@@ -1,9 +1,14 @@
-// Base de datos local
 const productos = [
-    { id: 1, nombre: "Camiseta Pro-Run", precio: 22990, desc: "Alta tecnología transpirable.", img: "img/camiseta.jpg" },
-    { id: 2, nombre: "Zapatillas Crusec Negras", precio: 22990, desc: "Zapatillas hombre negras deportivas.", img: "img/zapatillas_negras.jpg" },
-    { id: 3, nombre: "Zapatillas Crusec Rosadas", precio: 22990, desc: "Zapatillas mujer rosadas deportivas.", img: "img/zapatillas_rosas.jpg" },
-    { id: 4, nombre: "Pesas Hexagonales", precio: 45000, desc: "Equipo de entrenamiento profesional.", img: "img/pesas.jpg" }
+    { id: 1, nombre: "Camiseta Pro-Run", precio: 18990, desc: "Ropa deportiva de alta tecnología.", img: "img/camiseta.jpg" },
+    { id: 2, nombre: "Camiseta Master Blue", precio: 15990, desc: "Ropa deportiva elasticada.", img: "img/camiseta2.jpg" },
+    { id: 3, nombre: "Buzo SAMEX", precio: 44990, desc: "Buzo deportivo negro SAMEX", img: "img/buzo.jpg" },
+    { id: 4, nombre: "Calzas de Compresión", precio: 25990, desc: "Soporte muscular avanzado.", img: "img/calzas.jpg" },
+    { id: 5, nombre: "Zapatillas CRUSEC", precio: 49990, desc: "Zapatillas negras hombre deportivas CRUSEC.", img: "img/zapatillas.jpg" },
+    { id: 6, nombre: "Zapatillas CRUSEC", precio: 49990, desc: "Zapatillas rosadas mujer deportivas CRUSEC.", img: "img/zapatillas2.jpg" },
+    { id: 7, nombre: "Pesas circulares", precio: 34990, desc: "Equipo de entrenamiento profesional de 20 kg.", img: "img/pesas.jpg" },
+    { id: 8, nombre: "Kit pesas", precio: 79990, desc: "Kit de 5 pesas de 5, 10, 15, 20 y 25 kgs", img: "img/kitpesas.jpg" },
+    { id: 9, nombre: "Bolso Puma", precio: 39990, desc: "Bolso deportivo negro hombre", img: "img/bolso.jpg" },
+    { id: 10, nombre: "Kit pesas", precio: 39990, desc: "Bolso deportivo rosado mujer", img: "img/bolso2.jpg" }
 ];
 
 // Dibujar los productos en pantalla
